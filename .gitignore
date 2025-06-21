@@ -5,7 +5,7 @@ __pycache__/
 notebook
 # C extensions
 *.so
-
+artifact
 # Distribution / packaging
 .Python
 build/
